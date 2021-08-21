@@ -10,6 +10,7 @@ différentes mesures vers notre base de données et serveur web, qui sont relié
 Pour consultation des mesures météorologiques à distance et à temps réel, le client communique avec l’application web via le
 lien “HTTP://ESISBAMETEO.DDNS.NET” ainsi que l’application mobile (Android) disponible sur le play store.  
   
+  ## les domaines touchés dans ce projet:  
 Internet Of Things with Arduino (C++)  
 Web Server  
 Database (Firebase)  
